@@ -8,7 +8,5 @@
 ![Training](https://github.com/Anikcb/Anikcb.github.io/blob/main/Show%20File/gif4.gif?raw=true)<br><br>
 # Project
 ![project](https://github.com/Anikcb/Anikcb.github.io/blob/main/Show%20File/gif6.gif?raw=true)<br><br>
-# Achivement
-![Achivement](https://github.com/Anikcb/Anikcb.github.io/blob/main/Show%20File/gif7.gif?raw=true)<br><br>
 # Footer
 ![Footer](https://github.com/Anikcb/Anikcb.github.io/blob/main/Show%20File/gif5.gif?raw=true)<br><br>
